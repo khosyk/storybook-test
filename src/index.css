@@ -280,6 +280,7 @@ textarea {
   width: 100%;
   background: white;
   transition: all ease-out 150ms;
+  align-items: center;
 }
 
 .list-item .title {
